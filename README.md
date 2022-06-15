@@ -1,6 +1,3 @@
-<br>
-!! CONFIG OF BOT !!
-
 ```js
 // File Name: bot.js
 
@@ -8,12 +5,12 @@ module.exports = {
     TOKEN: '', // Discord Bot Token (https://discord.com/developers/applications/)
     PREFIX: '', // Prefix (Ex: !)
     ROLES: {
-        ROLE_1 : '', // Role ID
-        ROLE_2 : '', // Role ID
-        ROLE_3 : '', // Role ID
-        ROLE_4 : '', // Role ID
-        ROLE_5 : '', // Role ID 
-        ROLE_6 : ''  // Role ID
+        ROLE_1 : '', // Role ID Only
+        ROLE_2 : '', // Role ID Only
+        ROLE_3 : '', // Role ID Only 
+        ROLE_4 : '', // Role ID Only
+        ROLE_5 : '', // Role ID Only
+        ROLE_6 : ''  // Role ID Only
     }
 }
 ```
